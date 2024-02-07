@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "megamons:item/mega_cuff_3d"
+
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "megamons:item/mega_cuff_2d"
+    },
+    "ground": {
+      "parent": "megamons:item/mega_cuff_2d"
+    },
+    "fixed": {
+      "parent": "megamons:item/mega_cuff_2d"
+    },
+    "firstperson_righthand": {
+      "parent": "megamons:item/mega_cuff_2d"
+    },
+    "firstperson_lefthand": {
+      "parent": "megamons:item/mega_cuff_2d"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:megacharizardx",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:megacharizardx",
+      "model": "cobblemon:megacharizardx2.geo",
+      "texture": "cobblemon:textures/pokemon/m1_megacharizard/megacharizardx.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/m1_megacharizard/megacharizardx_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/m1_megacharizard/megacharizardx_shiny.png",
+      "layers": [
+            {
+              "name": "glow",
+              "texture": "cobblemon:textures/pokemon/m1_megacharizard/megacharizardx_emissive.png",
+              "emissive": true,
+              "translucent": true
+            }
+          ]
+    }
+  ]
+}

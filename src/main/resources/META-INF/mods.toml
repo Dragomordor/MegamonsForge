@@ -1,0 +1,34 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "MIT"
+logoFile = "assets/megamons/icon.png"
+
+[[mods]]
+modId = "megamons"
+version = "1.0.1"
+displayName = "Ascension's Megamons"
+authors = "Dragomordor"
+description = '''
+Cobblemon's first publicly available Mega Pokémon Mod
+'''
+
+[[dependencies.megamons]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.megamons]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.megamons]]
+modId = "cobblemon"
+mandatory = true
+versionRange = "[1.4,)"
+ordering = "NONE"
+side = "BOTH"

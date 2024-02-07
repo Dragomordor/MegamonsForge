@@ -1,0 +1,16 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-02-07 18:06:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:lush_caves": "2024-02-07 18:07:05 +0200",
+      "minecraft:old_growth_spruce_taiga": "2024-02-07 18:06:41 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
