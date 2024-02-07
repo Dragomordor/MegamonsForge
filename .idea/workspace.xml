@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c794f85-0384-4e34-b2cf-c9f3846d44ac" name="Changes" comment="" />
+    <list default="true" id="1c794f85-0384-4e34-b2cf-c9f3846d44ac" name="Changes" comment="Version 1.0.1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +63,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -70,6 +73,7 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2c0J8hFoyHTjk8OSqBHgXdPbwc2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
@@ -83,8 +87,9 @@
     "Gradle.Megamons Forge [runData].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Games/MinecraftModding/Developing/Megamons Forge/src/main/resources/data/megamons/forge/biome_modifier",
+    "last_opened_file_path": "C:/Games/MinecraftModding/Developing/Megamons Forge",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -245,6 +250,19 @@
       <option name="presentableId" value="Default" />
       <updated>1707242404997</updated>
     </task>
+    <task id="LOCAL-00001" summary="Version 1.0.1">
+      <option name="closed" value="true" />
+      <created>1707325768570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707325768570</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version 1.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 1.0.1" />
   </component>
 </project>
