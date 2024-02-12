@@ -19,7 +19,6 @@ import java.util.List;
 
 public class ModConfiguredFeatures {
 
-
     // Geodes
     public static final ResourceKey<ConfiguredFeature<?,?>> AERODACTYLITE_GEODE = FeatureUtils.createKey("aerodactylite_geode") ;
     public static final ResourceKey<ConfiguredFeature<?,?>> ALAKAZITE_GEODE = FeatureUtils.createKey("alakazite_geode") ;
@@ -36,8 +35,6 @@ public class ModConfiguredFeatures {
     public static final ResourceKey<ConfiguredFeature<?,?>> PINSIRITE_GEODE = FeatureUtils.createKey("pinsirite_geode") ;
     public static final ResourceKey<ConfiguredFeature<?,?>> SLOWBRONITE_GEODE = FeatureUtils.createKey("slowbronite_geode") ;
     public static final ResourceKey<ConfiguredFeature<?,?>> VENUSAURITE_GEODE = FeatureUtils.createKey("venusaurite_geode") ;
-
-
 
     public static void bootstrap(BootstapContext<ConfiguredFeature<?, ?>> context) {
         // Geodes

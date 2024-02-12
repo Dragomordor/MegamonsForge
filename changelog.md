@@ -1,22 +1,32 @@
-## [1.0.0 (January 7th, 2024)](#1-0-0)
+## [1.0.0 (February 2nd, 2024)](#1-0-0)
 - Initial Release
 
-## [1.0.1 (January 8th, 2024)](#1-0-1)
-- Fixed Compatability issues between version 1.4.1 of Cobblemon
+v1.0.0 mega list:
+1. Aerodactyl
+2. Alakazam
+3. Beedrill
+4. Blastoise
+5. Charizard X
+6. Charizard Y
+7. Gengar
+8. Gyarados
+9. Kangaskhan
+10. Mewtwo X (Creative only)
+11. Mewtwo Y (Creative only)
+12. Pidgeot
+13. Pinsir
+14. Slowbro
+15. Venusaur
 
-## [1.0.2 (January 8th, 2024)](#1-0-2)
-- Fixed Server functionality
 
-#### [1.1.0 (January 18th, 2024)](#1-1-0)
-- Added 2 config options for TM and TR drop chance from wild Pokemon
-- Pokémon now have a (by default) 5% chance to drop a TR or a 0.01% chance to drop a TM.
-  TMs and TRs that drop are based on the Pokémon's tm, egg and tutor move list.
+## [1.0.1 (February 3rd, 2024)](#1-0-1)
+- Fixed multiple Pokémon not being shiny while Mega Evolved
+- Fixed multiple Pokémon retaining their non-Mega ability upon Mega Evolution
+- Fixed base stats for certain Mega Pokémon
+- Fixed typos
 
-#### [1.1.1 (January 30th, 2024)](#1-1-1)
-- Corrected some TM/TR item names
-- Removed 1 fake TM/TR
-- In collaboration with davo899: 
-  - Made SimpleTMs compatible with *[CobblemonTrainers](https://www.curseforge.com/minecraft/mc-mods/cobblemontrainers)*
-
-#### [1.1.2 (February 4th, 2024)](#1-1-2)
-- Corrected some TM/TR item drops
+## [1.1.0 (February 12th, 2024)](#1-1-0)
+- Forge version released
+- Updated textures for Mega Gyarados and Mega Alakazam
+- Added Patchouli support and Megamons Guide Book
+- Added custom advancements tab with new advancements

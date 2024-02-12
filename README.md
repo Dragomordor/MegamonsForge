@@ -1,61 +1,25 @@
-# Cobblemon Megamons: Mega Pokémon for Cobblemon
+![Header](https://cdn.modrinth.com/data/cached_images/7d1d0ef6e372f7987aa9c5b2d763cd62bf5bca0b.png)
 
-Welcome to Cobblemon Megamons! This Cobblemon side mod brings Mega Evolutions to your Cobblemon experience, 
-allowing players to obtain Mega Stones and Mega Evolve their Pokémon.
+Mega Evolution has **FINALLY** come to Cobblemon! Using this side mod, players can now obtain Mega Stones and Mega Evolve their Pokemon!
 
-Below is a brief overview of the mod's features, configuration options, support channels, 
-credits to the development team, license information, and future development plans.
+---
 
+![Features](https://cdn.modrinth.com/data/cached_images/30ab614589b7fc1c68996ecbd6278e4648eb1024.png)
 
-## Features
+- **Mega Stones:** Mega stones for Generation 1 pokemon obtainable in survival (Mewtwo X and Y available in Creative)
+- **Mega Bracelet:** Used for Mega Evolution, the bracelet appears on the player model's wrist.
+- **Geode Generation:** Unique geodes spawning throughout the world. Each may contain new building blocks, an abundance of evolutionary stones, and Mega Stone ore!
+- **Future Updates:** Major updates to this mod will include more megas, special structures and other surprises! Platform Agnostic: Fabric version available with the Forge version arriving soon!**
+---
+![Progress](https://cdn.modrinth.com/data/cached_images/735ee206d0d3bc1f50c035262db6e579752bc72e.png)
+- **All Gen 1 Mega Evolutions:** Done
+- **Forge/Fabric Release:** Done
+---
+![Installation](https://cdn.modrinth.com/data/cached_images/526fb3bda9a2abf5f79b28360235afb56d453e97.png)
 
-- **Mega Stones**: Mega Stones for Generation 1 Pokémon are now obtainable in survival mode.(Mewtwo X and Y are available in Creative mode)
-- **Mega Bracelet**: Equip the Mega Bracelet to initiate Mega Evolution. The bracelet will appear on the player model's wrist.
-- **Geode Generation**: Discover geodes in the world, featuring new building blocks, abundant evolutionary stones, and Mega Stone ore!
-- **Lore Accurate**: Our team has meticulously crafted the mod to align with the lore of Pokémon, ensuring an immersive and faithful experience within the Minecraft universe.
+- **Client and Server**: Download the mod for your version and drop it in the mods folder. It needs to be installed in at least the Client and the Server if you have one.
 
-## Mega Evolution guide
-Mega stone ore can be found within newly spawned geodes, and these new ores drop Raw Mega Stones, which can be cut into 
-Cut Mega Stones in the stonecutter. Once the player obtains an Anistarite Crystal Block, which make up the crystal structure of the 
-new geodes, they can craft a Key Stone. The Key Stone is required to craft the Mega Cuff.
+---
+![Links](https://cdn.modrinth.com/data/cached_images/3e018f6a989a409f86732101e41eb211383833c4.png)
 
-The Mega Cuff can be used on a Pokémon holding its correct Cut Mega Stone (e.g. Blastoise holding Blastoisinite)
-to Mega Evolve them.
-
-The Mega Pokémon must be holding its Cut Mega Stone to remain in its Mega Form.
-
-## Configuration
-
-- **Mega Pokémon Limit**: The number of Mega Pokémon a player is allowed to have can be configured to suit server or player preferences.
-Adjust this setting to balance gameplay according to your needs.
-
-## Support and Feedback
-
-For support, feedback, or to join the development community, please visit our Discord server: [Cobblemon Discord](https://discord.gg/cobblemon)
-
-## Credits
-
-Cobblemon Ascension Team:
-
-- Lead Developers: 
-  - [Name]
-- Graphic Designers: 
-  - [Name]
-- Lore Consultants:
-  - [Name]
-- Testers: 
-  - [Name]
-
-## License
-
-This mod is licensed under [MIT License](https://opensource.org/licenses/MIT). See the LICENSE file for more details.
-
-## Future Development
-
-We are committed to improving and expanding Cobblemon Megamons. Future updates may include:
-
-- Integration of Mega Evolution for more Pokémon generations
-- Additional features such as new items, mechanics, and challenges
-- Optimization and bug fixes to enhance gameplay experience
-
-Stay tuned for exciting developments and updates on the discord!
+- Please join [our Discord server](https://discord.gg/BDDf3dT2Mj) to chat about our mods with our community, and for future updates!

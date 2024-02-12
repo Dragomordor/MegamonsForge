@@ -5,8 +5,720 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c794f85-0384-4e34-b2cf-c9f3846d44ac" name="Changes" comment="Version 1.0.1">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.3/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.3/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/architectury/.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/architectury/.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/loom-cache/remapClasspath.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/loom-cache/remapClasspath.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/git/dragomordor/megamons/forge/MegamonsItemGroups.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/git/dragomordor/megamons/forge/MegamonsItemGroups.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/git/dragomordor/megamons/forge/tags/ModTags$Biomes.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/git/dragomordor/megamons/forge/tags/ModTags$Biomes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/git/dragomordor/megamons/forge/tags/ModTags$Blocks.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/git/dragomordor/megamons/forge/tags/ModTags$Blocks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/git/dragomordor/megamons/forge/tags/ModTags$Items.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/git/dragomordor/megamons/forge/tags/ModTags$Items.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/git/dragomordor/megamons/forge/world/ModConfiguredFeatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/git/dragomordor/megamons/forge/world/ModConfiguredFeatures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/META-INF/mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/META-INF/mods.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/models/megaalakazam/megaalakazam.geo.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/models/megaalakazam/megaalakazam.geo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/models/megagyarados/megagyarados.geo.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/models/megagyarados/megagyarados.geo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/m7_megaalakazam/megaalakazam.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/m7_megaalakazam/megaalakazam.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/m7_megaalakazam/megaalakazam_shiny.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/m7_megaalakazam/megaalakazam_shiny.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/m_gyarados/megagyarados.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/m_gyarados/megagyarados.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/m_gyarados/megagyarados_shiny.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/m_gyarados/megagyarados_shiny.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/megamons/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/megamons/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/megamons/lang/en_us.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/megamons/lang/en_us.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/megamons/models/item/mega_cuff.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/megamons/models/item/mega_cuff.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/megamons/models/item/mega_cuff_2d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/megamons/models/item/metal_detector.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/megamons/textures/item/metal_detector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data/megamons/forge/biome_modifier/add_aerodactylite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data/megamons/forge/biome_modifier/add_alakazite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data/megamons/forge/biome_modifier/add_beedrillite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data/megamons/forge/biome_modifier/add_blastoisinite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data/megamons/forge/biome_modifier/add_charizarditex_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data/megamons/forge/biome_modifier/add_charizarditey_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data/megamons/forge/biome_modifier/add_gengarite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data/megamons/forge/biome_modifier/add_gyaradosite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data/megamons/forge/biome_modifier/add_kangaskhanite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data/megamons/forge/biome_modifier/add_pidgeotite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data/megamons/forge/biome_modifier/add_pinsirite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data/megamons/forge/biome_modifier/add_slowbronite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data/megamons/forge/biome_modifier/add_venusaurite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data/megamons/tags/blocks/metal_detector_destroyable_blocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/data/megamons/tags/blocks/metal_detector_detectable_blocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/changelog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/.architectury-transformer/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/.architectury-transformer/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2024-02-07-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-02-07-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2024-02-07-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-02-07-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2024-02-07-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-02-07-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2024-02-07-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-02-07-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2024-02-07-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-02-07-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2024-02-07-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2024-02-07-6.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2024-02-07-7.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/git/dragomordor/megamons/forge/MegamonsItemGroups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/git/dragomordor/megamons/forge/MegamonsItemGroups.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/git/dragomordor/megamons/forge/tags/ModTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/git/dragomordor/megamons/forge/tags/ModTags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/git/dragomordor/megamons/forge/world/ModConfiguredFeatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/git/dragomordor/megamons/forge/world/ModConfiguredFeatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/mods.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megaaerodactyl/megaaerodactyl.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megaalakazam/megaalakazam.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megaampharos/megaampharos.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megabeedrill/megabeedrill.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megablastoise/megablastoise.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megablaziken/megablaziken.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megacharizardx/megacharizardx.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megacharizardy/megacharizardy.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megagarchomp/megagarchomp.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megagengar/megagengar.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megagyarados/megagyarados.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megaheracross/megaheracross.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megakangaskhan/megakangaskhan.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megalucario/megalucario.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megamewtwox/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megamewtwox/megamewtwox.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megamewtwoy/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megamewtwoy/megamewtwoy.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megapidgeot/megapidgeot.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megapinsir/megapinsir.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megarayquaza/megarayquaza.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megasableye/megasableye.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megascizor/megascizor.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megaslowbro/megaslowbro.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megasteelix/megasteelix.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/animations/megavenusaur/megavenusaur.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megaaerodactyl/megaaerodactyl.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megaalakazam/megaalakazam.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megaampharos/megaampharos.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megabeedrill/megabeedrill.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megablastoise/megablastoise.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megablaziken/megablaziken.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megacharizard/megacharizardx.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megacharizard/megacharizardx2.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megacharizard/megacharizardy.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megacharizardx/megacharizardx.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megacharizardx/megacharizardx2.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megacharizardy/megacharizardy2.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megagarchomp/megagarchomp.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megagengar/megagengar.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megagyarados/megagyarados.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megaheracross/megaheracross.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megakangaskhan/megakangaskhan.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megalucario/megalucario.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megamewtwox/megamewtwox.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megamewtwoy/megamewtwoy.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megapidgeot/megapidgeot.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megapinsir/megapinsir.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megarayquaza/megarayquaza.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megasableye/megasableye.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megascizor/megascizor.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megasharpedo/megasharpedo.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megaslowbro/megaslowbro.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megasteelix/megasteelix.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/models/megavenusaur/megavenusaur.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/blastoise2/blastoise2.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/charizard2/charizard2.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/venusaur2/venusaur2.animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/blastoise2.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/charizard2.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/venusaur2.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/blastoise2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/charizard2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/venusaur2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0003_venusaur/0_venusaur_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0006_charizard/0_charizard_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0009_blastoise/0_blastoise_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megaaerodactyl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megaalakazam.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megaampharos.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megabeedrill.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megablastoise.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megablaziken.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megacharizardx.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megacharizardy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megagarchomp.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megagengar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megagyarados.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megaheracross.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megakangaskhan.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megalucario.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megamewtwox.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megamewtwoy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megapidgeot.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megapinsir.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megarayquaza.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megasableye.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megascizor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megaslowbro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megasteelix.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/posers/megavenusaur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megaaerodactyl_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megaalakazam_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megaampharos_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megabeedrill_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megablastoise_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megablaziken_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megacharizardx_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megacharizardy_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megagarchomp_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megagengar_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megagyarados_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megaheracross_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megakangaskhan_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megalucario_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megamewtwox_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megamewtwoy_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megapidgeot_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megapinsir_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megarayquayza_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megarayquaza_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megasableye_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megascizor_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megasharpedo_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megaslowbro_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megasteelix_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/species/0_megavenusaur_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/lang/en_us.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0003_venusaur2/venusaur2 (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0003_venusaur2/venusaur2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0006_charizard2/charizard2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0006_charizard2/charizard2_emissive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0006_charizard2/charizard2_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0009_blastoise2/blastoise2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0009_blastoise2/blastoise2_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0150_mewtwo2/mewtwo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0150_mewtwo2/mewtwo2_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m1_megacharizard/flame/tail1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m1_megacharizard/flame/tail2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m1_megacharizard/flame/tail3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m1_megacharizard/flame/tail4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m1_megacharizard/megacharizardx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m1_megacharizard/megacharizardx_e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m1_megacharizard/megacharizardx_emissive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m1_megacharizard/megacharizardx_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m1_megacharizard/megacharizardy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m1_megacharizard/megacharizardy_emissive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m1_megacharizard/megacharizardy_flame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m1_megacharizard/megacharizardy_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m1_megacharizard/yflame/tail1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m1_megacharizard/yflame/tail2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m1_megacharizard/yflame/tail3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m1_megacharizard/yflame/tail4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m2_megablastoise/megablastoise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m2_megablastoise/megablastoise_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m3_megavenusaur/megavenusaur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m3_megavenusaur/megavenusaur_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m4_megabeedrill/megabeedrill.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m4_megabeedrill/megabeedrill_e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m4_megabeedrill/megabeedrill_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m5_aerodactyl/megaaerodactyl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m5_aerodactyl/megaaerodactyl_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m6_pidgeot/megapidgeot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m6_pidgeot/megapidgeot_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m7_megaalakazam/megaalakazam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m7_megaalakazam/megaalakazam_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_ampharos/megaampharos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_ampharos/megaampharos_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_blaziken/megablaziken.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_blaziken/megablaziken_emissive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_blaziken/megablaziken_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_garchomp/megagarchomp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_garchomp/megagarchomp_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_gyarados/megagyarados.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_gyarados/megagyarados_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_heracross/megaheracross.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_heracross/megaheracross_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_kangaskhan/megakangaskhan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_kangaskhan/megakangaskhan_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_lucario/megalucario.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_lucario/megalucario_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_megagengar/gengar_emissives.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_megagengar/megagengar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_megagengar/megagengar_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_mewtwo/megamewtwox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_mewtwo/megamewtwox_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_mewtwo/megamewtwoy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_mewtwo/megamewtwoy_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_pinsir/megapinsir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_pinsir/megapinsir_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_rayquaza/megarayquaza.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_rayquaza/megarayquaza_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_sableye/megasableye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_sableye/megasableye_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_scizor/megascizor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_sharpedo/megasharpedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_sharpedo/megasharpedo_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_slowbro/megaslowbro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_slowbro/megaslowbro_shiny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/m_steelix/megasteelix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/aerodactylite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/alakazite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/anistarite_geode_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/anistarite_rough_geode_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/beedrillite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/blastoisinite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/charizarditex_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/charizarditey_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/crystal_dawn_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/crystal_dusk_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/crystal_fire_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/crystal_ice_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/crystal_leaf_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/crystal_moon_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/crystal_shiny_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/crystal_sun_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/crystal_thunder_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/crystal_water_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/gengarite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/gyaradosite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/kangaskhanite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/mewtwonitex_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/mewtwonitey_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/pidgeotite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/pinsirite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/slowbronite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/blockstates/venusaurite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/lang/en_us.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/aerodactylite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/alakazite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/anistarite_geode_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/anistarite_rough_geode_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/beedrillite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/blastoisinite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/charizarditex_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/charizarditey_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/crystal_dawn_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/crystal_dusk_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/crystal_fire_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/crystal_ice_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/crystal_leaf_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/crystal_moon_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/crystal_shiny_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/crystal_sun_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/crystal_thunder_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/crystal_water_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/gengarite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/gyaradosite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/kangaskhanite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/mewtwonitex_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/mewtwonitey_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/pidgeotite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/pinsirite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/slowbronite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/block/venusaurite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/aerodactylite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/alakazite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/anistarite_geode_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/anistarite_rough_geode_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/beedrillite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/blastoisinite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/charizarditex_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/charizarditey_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/crystal_dawn_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/crystal_dusk_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/crystal_fire_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/crystal_ice_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/crystal_leaf_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/crystal_moon_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/crystal_shiny_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/crystal_sun_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/crystal_thunder_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/crystal_water_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/cut_aerodactylite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/cut_alakazite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/cut_beedrillite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/cut_blastoisinite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/cut_charizarditex.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/cut_charizarditey.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/cut_gengarite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/cut_gyaradosite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/cut_kangaskhanite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/cut_mewtwonitex.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/cut_mewtwonitey.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/cut_pidgeotite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/cut_pinsirite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/cut_slowbronite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/cut_venusaurite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/gengarite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/gyaradosite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/kangaskhanite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/key_stone.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/mega_cuff.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/mega_cuff_2d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/mega_cuff_3d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/metal_detector.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/mewtwonitex_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/mewtwonitey_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/pidgeotite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/pinsirite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/raw_aerodactylite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/raw_alakazite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/raw_beedrillite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/raw_blastoisinite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/raw_charizarditex.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/raw_charizarditey.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/raw_gengarite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/raw_gyaradosite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/raw_kangaskhanite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/raw_mewtwonitex.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/raw_mewtwonitey.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/raw_pidgeotite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/raw_pinsirite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/raw_slowbronite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/raw_venusaurite.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/slowbronite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/models/item/venusaurite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/aerodactylite_crystal_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/aerodactylite_deepslate_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/aerodactylite_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/alakazite_crystal_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/alakazite_deepslate_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/alakazite_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/anistarite_geode_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/anistarite_rough_geode_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/beedrillite_crystal_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/beedrillite_deepslate_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/beedrillite_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/blastoisinite_crystal_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/blastoisinite_deepslate_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/blastoisinite_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/charizarditex_crystal_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/charizarditex_deepslate_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/charizarditex_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/charizarditey_crystal_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/charizarditey_deepslate_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/charizarditey_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/crystal_dawn_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/crystal_dusk_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/crystal_fire_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/crystal_ice_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/crystal_leaf_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/crystal_moon_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/crystal_shiny_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/crystal_sun_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/crystal_thunder_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/crystal_water_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/gengarite_crystal_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/gengarite_deepslate_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/gengarite_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/gyaradosite_crystal_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/gyaradosite_deepslate_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/gyaradosite_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/kangaskhanite_crystal_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/kangaskhanite_deepslate_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/kangaskhanite_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/mewtwonitex_crystal_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/mewtwonitex_deepslate_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/mewtwonitex_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/mewtwonitey_crystal_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/mewtwonitey_deepslate_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/mewtwonitey_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/pidgeotite_crystal_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/pidgeotite_deepslate_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/pidgeotite_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/pinsirite_crystal_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/pinsirite_deepslate_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/pinsirite_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/slowbronite_crystal_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/slowbronite_deepslate_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/slowbronite_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/venusaurite_crystal_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/venusaurite_deepslate_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/block/venusaurite_stone_ore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/cut_aerodactylite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/cut_alakazite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/cut_beedrillite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/cut_blastoisinite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/cut_charizarditex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/cut_charizarditey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/cut_gengarite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/cut_gyaradosite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/cut_kangaskhanite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/cut_mewtwonitex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/cut_mewtwonitey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/cut_pidgeotite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/cut_pinsirite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/cut_slowbronite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/cut_venusaurite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/key_stone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/mega_cuff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/mega_cuff_3d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/metal_detector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/raw_aerodactylite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/raw_alakazite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/raw_beedrillite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/raw_blastoisinite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/raw_charizarditex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/raw_charizarditey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/raw_gengarite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/raw_gyaradosite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/raw_kangaskhanite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/raw_mewtwonitex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/raw_mewtwonitey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/raw_pidgeotite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/raw_pinsirite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/raw_slowbronite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/megamons/textures/item/raw_venusaurite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/aerodactyl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/alakazam.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/beedrill.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/blastoise.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/charizard.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/gengar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/gyarados.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/kangaskhan.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/megaaerodactyl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/megaalakazam.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/megabeedrill.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/megablastoise.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/megacharizardx.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/megacharizardy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/megagengar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/megagyarados.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/megakangaskhan.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/megamewtwox.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/megamewtwoy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/megapidgeot.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/megapinsir.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/megaslowbro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/megavenusaur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/mewtwo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/pidgeot.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/pinsir.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/slowbro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species/generation1/venusaur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/cut_aerodactylite_from_raw_aerodactylite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/cut_alakazite_from_raw_alakazite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/cut_beedrillite_from_raw_beedrillite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/cut_blastoisinite_from_raw_blastoisinite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/cut_charizarditex_from_raw_charizarditex_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/cut_charizarditey_from_raw_charizarditey_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/cut_gengarite_from_raw_gengarite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/cut_gyaradosite_from_raw_gyaradosite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/cut_kangaskhanite_from_raw_kangaskhanite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/cut_mewtwonitex_from_raw_mewtwonitex_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/cut_mewtwonitey_from_raw_mewtwonitey_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/cut_pidgeotite_from_raw_pidgeotite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/cut_pinsirite_from_raw_pinsirite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/cut_slowbronite_from_raw_slowbronite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/cut_venusaurite_from_raw_venusaurite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/dawn_stone_from_blasting_crystal_dawn_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/dawn_stone_from_smelting_crystal_dawn_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/dusk_stone_from_blasting_crystal_dusk_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/dusk_stone_from_smelting_crystal_dusk_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/fire_stone_from_blasting_crystal_fire_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/fire_stone_from_smelting_crystal_fire_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/ice_stone_from_blasting_crystal_ice_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/ice_stone_from_smelting_crystal_ice_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/key_stone.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/leaf_stone_from_blasting_crystal_leaf_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/leaf_stone_from_smelting_crystal_leaf_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/moon_stone_from_blasting_crystal_moon_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/moon_stone_from_smelting_crystal_moon_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_aerodactylite_from_blasting_aerodactylite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_aerodactylite_from_smelting_aerodactylite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_alakazite_from_blasting_alakazite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_alakazite_from_smelting_alakazite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_beedrillite_from_blasting_beedrillite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_beedrillite_from_smelting_beedrillite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_blastoisinite_from_blasting_blastoisinite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_blastoisinite_from_smelting_blastoisinite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_charizarditex_from_blasting_charizarditex_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_charizarditex_from_smelting_charizarditex_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_charizarditey_from_blasting_charizarditey_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_charizarditey_from_smelting_charizarditey_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_gengarite_from_blasting_gengarite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_gengarite_from_smelting_gengarite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_gyaradosite_from_blasting_gyaradosite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_gyaradosite_from_smelting_gyaradosite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_kangaskhanite_from_blasting_kangaskhanite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_kangaskhanite_from_smelting_kangaskhanite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_mewtwonitex_from_blasting_mewtwonitex_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_mewtwonitex_from_smelting_mewtwonitex_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_mewtwonitey_from_blasting_mewtwonitey_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_mewtwonitey_from_smelting_mewtwonitey_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_pidgeotite_from_blasting_pidgeotite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_pidgeotite_from_smelting_pidgeotite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_pinsirite_from_blasting_pinsirite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_pinsirite_from_smelting_pinsirite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_slowbronite_from_blasting_slowbronite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_slowbronite_from_smelting_slowbronite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_venusaurite_from_blasting_venusaurite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/raw_venusaurite_from_smelting_venusaurite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/shiny_stone_from_blasting_crystal_shiny_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/shiny_stone_from_smelting_crystal_shiny_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/sun_stone_from_blasting_crystal_sun_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/sun_stone_from_smelting_crystal_sun_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/thunder_stone_from_blasting_crystal_thunder_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/thunder_stone_from_smelting_crystal_thunder_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/water_stone_from_blasting_crystal_water_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/misc/water_stone_from_smelting_crystal_water_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/advancements/recipes/tools/mega_cuff.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/forge/biome_modifier/add_aerodactylite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/forge/biome_modifier/add_alakazite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/forge/biome_modifier/add_beedrillite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/forge/biome_modifier/add_blastoisinite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/forge/biome_modifier/add_charizarditex_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/forge/biome_modifier/add_charizarditey_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/forge/biome_modifier/add_gengarite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/forge/biome_modifier/add_gyaradosite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/forge/biome_modifier/add_kangaskhanite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/forge/biome_modifier/add_pidgeotite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/forge/biome_modifier/add_pinsirite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/forge/biome_modifier/add_slowbronite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/forge/biome_modifier/add_venusaurite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/aerodactylite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/alakazite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/anistarite_geode_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/anistarite_rough_geode_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/beedrillite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/blastoisinite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/charizarditex_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/charizarditey_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/crystal_dawn_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/crystal_dusk_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/crystal_fire_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/crystal_ice_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/crystal_leaf_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/crystal_moon_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/crystal_shiny_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/crystal_sun_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/crystal_thunder_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/crystal_water_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/gengarite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/gyaradosite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/kangaskhanite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/mewtwonitex_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/mewtwonitey_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/pidgeotite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/pinsirite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/slowbronite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/loot_tables/blocks/venusaurite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/cut_aerodactylite_from_raw_aerodactylite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/cut_alakazite_from_raw_alakazite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/cut_beedrillite_from_raw_beedrillite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/cut_blastoisinite_from_raw_blastoisinite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/cut_charizarditex_from_raw_charizarditex_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/cut_charizarditey_from_raw_charizarditey_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/cut_gengarite_from_raw_gengarite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/cut_gyaradosite_from_raw_gyaradosite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/cut_kangaskhanite_from_raw_kangaskhanite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/cut_mewtwonitex_from_raw_mewtwonitex_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/cut_mewtwonitey_from_raw_mewtwonitey_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/cut_pidgeotite_from_raw_pidgeotite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/cut_pinsirite_from_raw_pinsirite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/cut_slowbronite_from_raw_slowbronite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/cut_venusaurite_from_raw_venusaurite_stonecutting.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/dawn_stone_from_blasting_crystal_dawn_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/dawn_stone_from_smelting_crystal_dawn_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/dusk_stone_from_blasting_crystal_dusk_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/dusk_stone_from_smelting_crystal_dusk_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/fire_stone_from_blasting_crystal_fire_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/fire_stone_from_smelting_crystal_fire_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/ice_stone_from_blasting_crystal_ice_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/ice_stone_from_smelting_crystal_ice_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/key_stone.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/leaf_stone_from_blasting_crystal_leaf_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/leaf_stone_from_smelting_crystal_leaf_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/mega_cuff.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/moon_stone_from_blasting_crystal_moon_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/moon_stone_from_smelting_crystal_moon_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_aerodactylite_from_blasting_aerodactylite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_aerodactylite_from_smelting_aerodactylite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_alakazite_from_blasting_alakazite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_alakazite_from_smelting_alakazite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_beedrillite_from_blasting_beedrillite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_beedrillite_from_smelting_beedrillite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_blastoisinite_from_blasting_blastoisinite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_blastoisinite_from_smelting_blastoisinite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_charizarditex_from_blasting_charizarditex_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_charizarditex_from_smelting_charizarditex_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_charizarditey_from_blasting_charizarditey_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_charizarditey_from_smelting_charizarditey_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_gengarite_from_blasting_gengarite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_gengarite_from_smelting_gengarite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_gyaradosite_from_blasting_gyaradosite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_gyaradosite_from_smelting_gyaradosite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_kangaskhanite_from_blasting_kangaskhanite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_kangaskhanite_from_smelting_kangaskhanite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_mewtwonitex_from_blasting_mewtwonitex_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_mewtwonitex_from_smelting_mewtwonitex_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_mewtwonitey_from_blasting_mewtwonitey_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_mewtwonitey_from_smelting_mewtwonitey_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_pidgeotite_from_blasting_pidgeotite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_pidgeotite_from_smelting_pidgeotite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_pinsirite_from_blasting_pinsirite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_pinsirite_from_smelting_pinsirite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_slowbronite_from_blasting_slowbronite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_slowbronite_from_smelting_slowbronite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_venusaurite_from_blasting_venusaurite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/raw_venusaurite_from_smelting_venusaurite_crystal_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/shiny_stone_from_blasting_crystal_shiny_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/shiny_stone_from_smelting_crystal_shiny_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/sun_stone_from_blasting_crystal_sun_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/sun_stone_from_smelting_crystal_sun_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/thunder_stone_from_blasting_crystal_thunder_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/thunder_stone_from_smelting_crystal_thunder_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/water_stone_from_blasting_crystal_water_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/recipes/water_stone_from_smelting_crystal_water_stone_ore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/tags/blocks/geode_walls.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/tags/blocks/metal_detector_destroyable_blocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/tags/blocks/metal_detector_detectable_blocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/tags/blocks/ore_megastones.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/tags/items/cut_megastones.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/tags/items/raw_megastones.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/configured_feature/aerodactylite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/configured_feature/alakazite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/configured_feature/beedrillite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/configured_feature/blastoisinite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/configured_feature/charizarditex_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/configured_feature/charizarditey_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/configured_feature/gengarite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/configured_feature/gyaradosite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/configured_feature/kangaskhanite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/configured_feature/mewtwonitex_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/configured_feature/mewtwonitey_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/configured_feature/pidgeotite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/configured_feature/pinsirite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/configured_feature/slowbronite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/configured_feature/venusaurite_geode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/placed_feature/aerodactylite_geode_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/placed_feature/alakazite_geode_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/placed_feature/beedrillite_geode_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/placed_feature/blastoisinite_geode_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/placed_feature/charizarditex_geode_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/placed_feature/charizarditey_geode_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/placed_feature/gengarite_geode_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/placed_feature/gyaradosite_geode_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/placed_feature/kangaskhanite_geode_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/placed_feature/mewtwonitex_geode_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/placed_feature/mewtwonitey_geode_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/placed_feature/pidgeotite_geode_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/placed_feature/pinsirite_geode_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/placed_feature/slowbronite_geode_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/megamons/worldgen/placed_feature/venusaurite_geode_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/minecraft/tags/blocks/mineable/pickaxe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/minecraft/tags/blocks/needs_diamond_tool.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/minecraft/tags/blocks/needs_iron_tool.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/minecraft/tags/blocks/needs_stone_tool.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +779,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -83,6 +800,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Gradle.Megamons Forge [build].executor": "Run",
     "Gradle.Megamons Forge [clean].executor": "Run",
     "Gradle.Megamons Forge [migrateMappings].executor": "Run",
@@ -90,22 +808,22 @@
     "Gradle.Megamons Forge [runData].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "1.1.0",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Games/MinecraftModding/Completed/SimpleTMs/Fabric",
+    "last_opened_file_path": "C:/Games/MinecraftModding/Developing/Megamons Forge/src/main/resources",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "promo.profiler"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Games\MinecraftModding\Developing\Megamons Forge\src\main\resources\data\megamons\forge\biome_modifier" />
-      <recent name="C:\Games\MinecraftModding\Developing\Megamons Forge\src\main\resources\data\megamons\forge" />
-      <recent name="C:\Games\MinecraftModding\Developing\Megamons Forge\src\main\resources\data\megamons" />
-      <recent name="C:\Games\MinecraftModding\Developing\Megamons Forge\src\main\java\git\dragomordor\megamons\forge\world\gen" />
+      <recent name="C:\Games\MinecraftModding\Developing\Megamons Forge\src\main\resources" />
       <recent name="C:\Games\MinecraftModding\Developing\Megamons Forge\src\main\resources\assets\megamons" />
+      <recent name="C:\Games\MinecraftModding\Developing\Megamons Forge\src\main\resources\assets\cobblemon\textures" />
+      <recent name="C:\Games\MinecraftModding\Developing\Megamons Forge\src\main\resources\assets\cobblemon\bedrock" />
+      <recent name="C:\Games\MinecraftModding\Developing\Megamons Forge\src\main\resources\data\megamons\forge\biome_modifier" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Games\MinecraftModding\Developing\Megamons Forge\src\main\resources\data\megamons\forge\biome_modifier" />
@@ -119,7 +837,7 @@
       <recent name="git.dragomordor.megamons.forge.item" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Megamons Forge [build]">
+  <component name="RunManager" selected="Gradle.Megamons Forge [runClient]">
     <configuration name="Megamons Forge [build]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -269,7 +987,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707325816182</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Version 1.0.1">
+      <option name="closed" value="true" />
+      <created>1707330734444</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707330734444</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
