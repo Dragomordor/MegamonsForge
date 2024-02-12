@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "megamons:raw_mewtwonitex"
-  },
-  "result": "megamons:cut_mewtwonitex"
-}
