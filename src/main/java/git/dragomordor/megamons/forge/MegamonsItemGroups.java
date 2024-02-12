@@ -15,7 +15,7 @@ public class MegamonsItemGroups {
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, MegamonsMod.MODID);
 
     // TM Group
-    public static final RegistryObject<CreativeModeTab> TM_GROUP = CREATIVE_MODE_TABS.register(MegamonsMod.MODID+"_tab",
+    public static final RegistryObject<CreativeModeTab> TM_GROUP = CREATIVE_MODE_TABS.register("megamons_itemgroup",
             () -> CreativeModeTab.builder().icon(()->new ItemStack(MegamonsItems.KEY_STONE.get()))
                     .title(Component.translatable("itemgroup."+MegamonsMod.MODID))
                     .displayItems((pParameters, pOutput)-> {

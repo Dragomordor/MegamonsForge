@@ -1,6 +1,6 @@
 [Architectury Transformer] Architectury Runtime 5.2.80
 [Architectury Transformer DEBUG] Preparing tiny remapper prepared transformer: dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Provided 103 classpath jar(s):
+[Architectury Transformer DEBUG] Provided 104 classpath jar(s):
 [Architectury Transformer DEBUG]  - C:\Users\ruanv\.gradle\caches\fabric-loom\1.20.1\forge\1.20.1-47.2.0\client-extra.jar
 [Architectury Transformer DEBUG]  - C:\Users\ruanv\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.9.22\d6c44cd08d8f3f9bece8101216dbe6553365c6e3\kotlin-stdlib-1.9.22.jar
 [Architectury Transformer DEBUG]  - C:\Users\ruanv\.gradle\caches\modules-2\files-2.1\dev.architectury\architectury-injectables\1.0.10\62db2a366d662606d1b23ad02ccc3212ed37ec3\architectury-injectables-1.0.10.jar
@@ -104,4 +104,5 @@
 [Architectury Transformer DEBUG]  - C:\Users\ruanv\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.82.Final\c7350a71920f3ae9142945e25fed4846cce53374\netty-transport-native-epoll-4.1.82.Final-linux-x86_64.jar
 [Architectury Transformer DEBUG]  - C:\Users\ruanv\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.82.Final\476409d6255001ca53a55f65b01c13822f8dc93a\netty-transport-native-epoll-4.1.82.Final-linux-aarch_64.jar
 [Architectury Transformer DEBUG]  - C:\Games\MinecraftModding\Developing\Megamons Forge\.gradle\loom-cache\remapped_mods\loom_mappings_1_20_1_layered_hash_40359_v2_forge_1_20_1_47_2_0_forge\com\cobblemon\forge\1.4.0+1.20.1\forge-1.4.0+1.20.1.jar
-[Architectury Transformer] Read classpath in 2.434 s
+[Architectury Transformer DEBUG]  - C:\Games\MinecraftModding\Developing\Megamons Forge\.gradle\loom-cache\remapped_mods\loom_mappings_1_20_1_layered_hash_40359_v2_forge_1_20_1_47_2_0_forge\vazkii\patchouli\Patchouli\1.20.1-84-FORGE\Patchouli-1.20.1-84-FORGE.jar
+[Architectury Transformer] Read classpath in 2.632 s

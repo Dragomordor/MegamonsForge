@@ -7,7 +7,8 @@ plugins {
 }
 
 group = "git.dragomordor.megamons"
-version = "1.0.1"
+version = "1.1.0"
+
 
 architectury {
     platformSetupLoomIde()
@@ -48,6 +49,8 @@ repositories {
     maven("https://thedarkcolour.github.io/KotlinForForge/")
 
     maven("https://repo.spongepowered.org/maven")
+    // Patchouli
+    maven ( "https://maven.blamejared.com" )
 }
 
 dependencies {
@@ -60,8 +63,12 @@ dependencies {
 
     // Apply Mixin AP
     annotationProcessor("org.spongepowered:mixin:0.8.5:processor")
-}
 
+    // Patchouli
+    modImplementation("vazkii.patchouli:Patchouli:1.20.1-84-FORGE")
+
+
+}
 
 sourceSets {
     main {
@@ -73,4 +80,5 @@ tasks {
     compileKotlin {
         kotlinOptions.jvmTarget = "17"
     }
+
 }
