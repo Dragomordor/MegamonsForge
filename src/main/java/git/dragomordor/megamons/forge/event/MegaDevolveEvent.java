@@ -9,28 +9,21 @@ import git.dragomordor.megamons.forge.util.OverlayMessage;
 import git.dragomordor.megamons.forge.util.megaspecies.HeldMegastoneMegaSpeciesUtil;
 import git.dragomordor.megamons.forge.util.megaspecies.MegaSpeciesUtil;
 import net.minecraft.core.BlockPos;
+import net.minecraft.network.chat.Component;
 import net.minecraft.sounds.SoundSource;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.Level;
-import net.minecraftforge.common.MinecraftForge;
 
 import static git.dragomordor.megamons.forge.item.custom.MegaCuffItem.isInMegaStoneList;
 import static git.dragomordor.megamons.forge.util.megaspecies.MegaSpeciesUtil.getPreSpeciesFromPostSpecies;
 
-
-
 import java.util.List;
-
 
 public class MegaDevolveEvent {
 
     public static void onPokemonHeldItemChange(Pokemon pokemon, ItemStack previousItemStack, ItemStack newItemStack) {
-        System.out.println("Held item changed!");
-        System.out.println("Pokemon: " + pokemon.getDisplayName().getString());
-        System.out.println("Previous Item: " + previousItemStack);
-        System.out.println("New Item: " + newItemStack);
         MegaDevolveEvent.MegaDevolveCheck(pokemon);
     }
 
@@ -82,12 +75,10 @@ public class MegaDevolveEvent {
             pokemon.setSpecies(pokemonPreSpecies);
             String capitalizedSpeciesName = pokemonPreSpecies.getName().substring(0, 1).toUpperCase() + pokemonPreSpecies.getName().substring(1);
             if (player!=null) {
-                OverlayMessage.displayOverlayMessage(player,capitalizedSpeciesName + " transformed into regular Form - Mega Stone Removed!");
+                OverlayMessage.displayOverlayMessage(player, Component.translatable("message.megadevolveevent.stoneremoved",capitalizedSpeciesName).getString());
                 Level level = player.level();
                 BlockPos blockPos = player.blockPosition();
                 level.playSound(null,blockPos,CobblemonSounds.EVOLVING, SoundSource.PLAYERS,1f,0.1f);
-
-                //player.playSound(CobblemonSounds.EVOLVING, 1F, 0.1F);
             }
         }
     }
