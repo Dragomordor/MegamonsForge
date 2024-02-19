@@ -80,6 +80,8 @@ public class MegaDevolveEvent {
                 BlockPos blockPos = player.blockPosition();
                 level.playSound(null,blockPos,CobblemonSounds.EVOLVING, SoundSource.PLAYERS,1f,0.1f);
             }
+            pokemon.setTradeable(true);
+
         }
     }
 

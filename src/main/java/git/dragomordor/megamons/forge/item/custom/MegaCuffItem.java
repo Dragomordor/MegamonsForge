@@ -164,6 +164,7 @@ public class MegaCuffItem extends PokemonUseItem{
         Level level = player.level();
         BlockPos blockPos = player.blockPosition();
         level.playSound(null,blockPos,CobblemonSounds.EVOLVING, SoundSource.PLAYERS,1f,1f);
+        pokemon.setTradeable(false);
     }
 
     public static void devolveFromMega(Pokemon pokemon, Species nonMegaSpecies, Species MegaSpecies, Player player) {
@@ -173,7 +174,6 @@ public class MegaCuffItem extends PokemonUseItem{
         Level level = player.level();
         BlockPos blockPos = player.blockPosition();
         level.playSound(null,blockPos,CobblemonSounds.EVOLVING, SoundSource.PLAYERS,1f,0.1f);
+        pokemon.setTradeable(true);
     }
-
-
 }
