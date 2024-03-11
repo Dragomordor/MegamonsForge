@@ -1,6 +1,6 @@
 {
   "type": "forge:add_features",
   "biomes": "#minecraft:is_overworld",
-  "features": "megamons:beedrillite_geode_placed",
+  "features": "megamons:mawilite_geode_placed",
   "step": "underground_decoration"
 }
