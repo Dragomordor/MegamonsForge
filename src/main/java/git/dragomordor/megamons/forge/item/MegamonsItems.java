@@ -27,7 +27,9 @@ public class MegamonsItems {
     }
 
     // Register Items
+
     // register RawMegaStoneItem
+        // Gen 1
     public static final RegistryObject<Item> RAW_AERODACTYLITE = registerRawMegaStoneItem("raw_aerodactylite");
     public static final RegistryObject<Item> RAW_ALAKAZITE = registerRawMegaStoneItem("raw_alakazite");
     public static final RegistryObject<Item> RAW_BEEDRILLITE = registerRawMegaStoneItem("raw_beedrillite");
@@ -43,8 +45,49 @@ public class MegamonsItems {
     public static final RegistryObject<Item> RAW_PINSIRITE = registerRawMegaStoneItem("raw_pinsirite");
     public static final RegistryObject<Item> RAW_SLOWBRONITE = registerRawMegaStoneItem("raw_slowbronite");
     public static final RegistryObject<Item> RAW_VENUSAURITE = registerRawMegaStoneItem("raw_venusaurite");
+    // Gen 2
+    public static final RegistryObject<Item> RAW_AMPHAROSITE = registerRawMegaStoneItem("raw_ampharosite");
+    // TODO: Add Heracroite
+    // TODO: Add Houndoominite
+    public static final RegistryObject<Item> RAW_SCIZORITE = registerRawMegaStoneItem("raw_scizorite");
+    public static final RegistryObject<Item> RAW_STEELIXITE = registerRawMegaStoneItem("raw_steelixite");
+    public static final RegistryObject<Item> RAW_TYRANITARITE = registerRawMegaStoneItem("raw_tyranitarite");
+    // Gen 3
+    // TODO: Add Absolite
+    // TODO: Add Aggronite
+    // TODO: Add Altarianite
+    public static final RegistryObject<Item> RAW_BANETTITE = registerRawMegaStoneItem("raw_banettite");
+    // TODO: Add Blazikenite
+    // TODO: Add Cameruptite
+    public static final RegistryObject<Item> RAW_GARDEVOIRITE = registerRawMegaStoneItem("raw_gardevoirite");
+    public static final RegistryObject<Item> RAW_GLALITITE = registerRawMegaStoneItem("raw_glalitite");
+    // TODO: Add Latiasite
+    // TODO: Add Latiosite
+    public static final RegistryObject<Item> RAW_MAWILITE = registerRawMegaStoneItem("raw_mawilite");
+    // TODO: Add Manechtite
+    // TODO: Add Medichamite
+    // TODO: Add Metagrossite
+    // TODO: Add Rayquazite
+    public static final RegistryObject<Item> RAW_SABLENITE = registerRawMegaStoneItem("raw_sablenite");
+    // TODO: Add Salamencite
+    // TODO: Add Sceptilite
+    public static final RegistryObject<Item> RAW_SHARPEDONITE = registerRawMegaStoneItem("raw_sharpedonite");
+    // TODO: Add Swampertite
+    // Gen 4
+    // TODO: Add Abomasite
+    public static final RegistryObject<Item> RAW_GALLADITE = registerRawMegaStoneItem("raw_galladite");
+    public static final RegistryObject<Item> RAW_GARCHOMPITE = registerRawMegaStoneItem("raw_garchompite");
+    // TODO: Add Lopunnite
+    // TODO: Add Lucarionite
+    // Gen 5
+    // TODO: Add Audinite
+    // Gen 6
+    // TODO: Add Diancite
+    // Gen 7+
+
 
     // register CutMegaStoneItem
+        // Gen 1
     public static final RegistryObject<Item> CUT_AERODACTYLITE = registerCutMegaStoneItem("cut_aerodactylite");
     public static final RegistryObject<Item> CUT_ALAKAZITE = registerCutMegaStoneItem("cut_alakazite");
     public static final RegistryObject<Item> CUT_BEEDRILLITE = registerCutMegaStoneItem("cut_beedrillite");
@@ -60,6 +103,47 @@ public class MegamonsItems {
     public static final RegistryObject<Item> CUT_PINSIRITE = registerCutMegaStoneItem("cut_pinsirite");
     public static final RegistryObject<Item> CUT_SLOWBRONITE = registerCutMegaStoneItem("cut_slowbronite");
     public static final RegistryObject<Item> CUT_VENUSAURITE = registerCutMegaStoneItem("cut_venusaurite");
+    // Gen 2
+    public static final RegistryObject<Item> CUT_AMPHAROSITE = registerCutMegaStoneItem("cut_ampharosite");
+    // TODO: Add Heracroite
+    // TODO: Add Houndoominite
+    public static final RegistryObject<Item> CUT_SCIZORITE = registerCutMegaStoneItem("cut_scizorite");
+    public static final RegistryObject<Item> CUT_STEELIXITE = registerCutMegaStoneItem("cut_steelixite");
+    public static final RegistryObject<Item> CUT_TYRANITARITE = registerCutMegaStoneItem("cut_tyranitarite");
+    // Gen 3
+    // TODO: Add Absolite
+    // TODO: Add Aggronite
+    // TODO: Add Altarianite
+    public static final RegistryObject<Item> CUT_BANETTITE = registerCutMegaStoneItem("cut_banettite");
+    // TODO: Add Blazikenite
+    // TODO: Add Cameruptite
+    public static final RegistryObject<Item> CUT_GARDEVOIRITE = registerCutMegaStoneItem("cut_gardevoirite");
+    public static final RegistryObject<Item> CUT_GLALITITE = registerCutMegaStoneItem("cut_glalitite");
+    // TODO: Add Latiasite
+    // TODO: Add Latiosite
+    public static final RegistryObject<Item> CUT_MAWILITE = registerCutMegaStoneItem("cut_mawilite");
+    // TODO: Add Manechtite
+    // TODO: Add Medichamite
+    // TODO: Add Metagrossite
+    // TODO: Add Rayquazite
+    public static final RegistryObject<Item> CUT_SABLENITE = registerCutMegaStoneItem("cut_sablenite");
+    // TODO: Add Salamencite
+    // TODO: Add Sceptilite
+    public static final RegistryObject<Item> CUT_SHARPEDONITE = registerCutMegaStoneItem("cut_sharpedonite");
+    // TODO: Add Swampertite
+    // Gen 4
+    // TODO: Add Abomasite
+    // TODO: Add Galladite
+    public static final RegistryObject<Item> CUT_GALLADITE = registerCutMegaStoneItem("cut_galladite");
+    public static final RegistryObject<Item> CUT_GARCHOMPITE = registerCutMegaStoneItem("cut_garchompite");
+    // TODO: Add Lopunnite
+    // TODO: Add Lucarionite
+    // Gen 5
+    // TODO: Add Audinite
+    // Gen 6
+    // TODO: Add Diancite
+    // Gen 7+
+
 
     // Register KeyStoneItem
     public static final RegistryObject<Item> KEY_STONE = registerKeyStoneItem("key_stone");
@@ -67,13 +151,9 @@ public class MegamonsItems {
     // Register Mega Cuff Item
     public static final RegistryObject<Item> MEGA_CUFF = registerMegaCuffItem("mega_cuff");
 
-    // Register Metal Detector item
 
+// Helper method to register items
 
-
-
-
-    // Register Functions
     // register RawMegaStoneItem
     private static RegistryObject<Item> registerRawMegaStoneItem(String name) {
         return ITEMS.register(name, () -> new RawMegaStoneItem());
@@ -93,12 +173,10 @@ public class MegamonsItems {
         return ITEMS.register(name, () -> new MegaCuffItem());
     }
 
-    // Register metal Detector item
 
 
 
-
-    // Other functions
+// Other Helper functions
     // get item by name
     public static Item getItemByName(String name) {
         ResourceLocation resourceLocation  = new ResourceLocation(MegamonsMod.MODID,name);

@@ -19,13 +19,13 @@ import net.minecraftforge.registries.RegistryObject;
 
 import java.util.function.Supplier;
 
+// Register Blocks
 public class MegamonsBlocks {
     public static final DeferredRegister<Block> BLOCKS =
             DeferredRegister.create(ForgeRegistries.BLOCKS, MegamonsMod.MODID);
 
-    // Register Blocks
-    // Megastone ore blocks
-        // Crystal Ore - Megastone
+    // Crystal Ore - Megastone
+        // Gen 1
     public static final RegistryObject<Block> ORE_CRYSTAL_AERODACTYLITE = registerBlock("aerodactylite_crystal_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)
                     .strength(5.5F,3.5F).requiresCorrectToolForDrops(), UniformInt.of(5, 9)));
@@ -71,6 +71,75 @@ public class MegamonsBlocks {
     public static final RegistryObject<Block> ORE_CRYSTAL_VENUSAURITE = registerBlock("venusaurite_crystal_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)
                     .strength(5.5F,3.5F).requiresCorrectToolForDrops(), UniformInt.of(5, 9)));
+    // Gen 2
+    public static final RegistryObject<Block> ORE_CRYSTAL_AMPHAROSITE = registerBlock("ampharosite_crystal_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)
+                    .strength(5.5F,3.5F).requiresCorrectToolForDrops(), UniformInt.of(5, 9)));
+    // TODO: Add Heracroite
+    // TODO: Add Houndoominite
+    public static final RegistryObject<Block> ORE_CRYSTAL_SCIZORITE = registerBlock("scizorite_crystal_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)
+                    .strength(5.5F,3.5F).requiresCorrectToolForDrops(), UniformInt.of(5, 9)));
+    public static final RegistryObject<Block> ORE_CRYSTAL_STEELIXITE = registerBlock("steelixite_crystal_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)
+                    .strength(5.5F,3.5F).requiresCorrectToolForDrops(), UniformInt.of(5, 9)));
+    public static final RegistryObject<Block> ORE_CRYSTAL_TYRANITARITE = registerBlock("tyranitarite_crystal_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)
+                    .strength(5.5F,3.5F).requiresCorrectToolForDrops(), UniformInt.of(5, 9)));
+    // Gen 3
+    // TODO: Add Absolite
+    // TODO: Add Aggronite
+    // TODO: Add Altarianite
+    public static final RegistryObject<Block> ORE_CRYSTAL_BANETTITE = registerBlock("banettite_crystal_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)
+                    .strength(5.5F,3.5F).requiresCorrectToolForDrops(), UniformInt.of(5, 9)));
+    // TODO: Add Blazikenite
+    // TODO: Add Cameruptite
+    public static final RegistryObject<Block> ORE_CRYSTAL_GARDEVOIRITE = registerBlock("gardevoirite_crystal_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)
+                    .strength(5.5F,3.5F).requiresCorrectToolForDrops(), UniformInt.of(5, 9)));
+    public static final RegistryObject<Block> ORE_CRYSTAL_GLALITITE = registerBlock("glalitite_crystal_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)
+                    .strength(5.5F,3.5F).requiresCorrectToolForDrops(), UniformInt.of(5, 9)));
+    // TODO: Add Latiasite
+    // TODO: Add Latiosite
+    public static final RegistryObject<Block> ORE_CRYSTAL_MAWILITE = registerBlock("mawilite_crystal_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)
+                    .strength(5.5F,3.5F).requiresCorrectToolForDrops(), UniformInt.of(5, 9)));
+    // TODO: Add Manechtite
+    // TODO: Add Medichamite
+    // TODO: Add Metagrossite
+    // TODO: Add Rayquazite
+    public static final RegistryObject<Block> ORE_CRYSTAL_SABLENITE = registerBlock("sablenite_crystal_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)
+                    .strength(5.5F,3.5F).requiresCorrectToolForDrops(), UniformInt.of(5, 9)));
+    // TODO: Add Salamencite
+    // TODO: Add Sceptilite
+    public static final RegistryObject<Block> ORE_CRYSTAL_SHARPEDONITE = registerBlock("sharpedonite_crystal_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)
+                    .strength(5.5F,3.5F).requiresCorrectToolForDrops(), UniformInt.of(5, 9)));
+    // TODO: Add Swampertite
+    // Gen 4
+    // TODO: Add Abomasite
+    public static final RegistryObject<Block> ORE_CRYSTAL_GALLADITE = registerBlock("galladite_crystal_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)
+                    .strength(5.5F,3.5F).requiresCorrectToolForDrops(), UniformInt.of(5, 9)));
+    public static final RegistryObject<Block> ORE_CRYSTAL_GARCHOMPITE = registerBlock("garchompite_crystal_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)
+                    .strength(5.5F,3.5F).requiresCorrectToolForDrops(), UniformInt.of(5, 9)));
+    // TODO: Add Lopunnite
+    // TODO: Add Lucarionite
+    // Gen 5
+    // TODO: Add Audinite
+    // Gen 6
+    // TODO: Add Diancite
+    // Gen 7+
+
+
+
+
+
+
 
     // Geode Crystal Evo ores
     public static final RegistryObject<Block> CRYSTAL_DAWN_STONE_ORE = registerBlock("crystal_dawn_stone_ore",

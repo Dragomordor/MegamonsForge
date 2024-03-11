@@ -12,7 +12,7 @@ public class MegastoneItemList {
     public List<Item> getMegastonesItemList() {
         List<Item> cutMegastoneItemList = new ArrayList<>();
 
-        // add new megastones here!
+        // Gen 1
         cutMegastoneItemList.add(MegamonsItems.CUT_ALAKAZITE.get());
         cutMegastoneItemList.add(MegamonsItems.CUT_AERODACTYLITE.get());
         cutMegastoneItemList.add(MegamonsItems.CUT_BEEDRILLITE.get());
@@ -28,6 +28,48 @@ public class MegastoneItemList {
         cutMegastoneItemList.add(MegamonsItems.CUT_PINSIRITE.get());
         cutMegastoneItemList.add(MegamonsItems.CUT_SLOWBRONITE.get());
         cutMegastoneItemList.add(MegamonsItems.CUT_VENUSAURITE.get());
+        // Gen 2
+        cutMegastoneItemList.add(MegamonsItems.CUT_AMPHAROSITE.get());
+        // TODO: Add Heracronite
+        // TODO: Add Houndoominite
+        cutMegastoneItemList.add(MegamonsItems.CUT_SCIZORITE.get());
+        cutMegastoneItemList.add(MegamonsItems.CUT_STEELIXITE.get());
+        cutMegastoneItemList.add(MegamonsItems.CUT_TYRANITARITE.get());
+        // Gen 3
+        // TODO: Add Absolite
+        // TODO: Add Aggronite
+        // TODO: Add Altarianite
+        cutMegastoneItemList.add(MegamonsItems.CUT_BANETTITE.get());
+        // TODO: Add Blazikenite
+        // TODO: Add Cameruptite
+        cutMegastoneItemList.add(MegamonsItems.CUT_GARDEVOIRITE.get());
+        cutMegastoneItemList.add(MegamonsItems.CUT_GLALITITE.get());
+        // TODO: Add Latiasite
+        // TODO: Add Latiosite
+        cutMegastoneItemList.add(MegamonsItems.CUT_MAWILITE.get());
+        // TODO: Add Manechtite
+        // TODO: Add Medichamite
+        // TODO: Add Metagrossite
+        // TODO: Add Rayquazite
+        cutMegastoneItemList.add(MegamonsItems.CUT_SABLENITE.get());
+        // TODO: Add Salamencite
+        // TODO: Add Sceptilite
+        cutMegastoneItemList.add(MegamonsItems.CUT_SHARPEDONITE.get());
+        // TODO: Add Swampertite
+        // Gen 4
+        // TODO: Add Abomasite
+        cutMegastoneItemList.add(MegamonsItems.CUT_GALLADITE.get());
+        cutMegastoneItemList.add(MegamonsItems.CUT_GARCHOMPITE.get());
+        // TODO: Add Lopunnite
+        // TODO: Add Lucarionite
+        // Gen 5
+        // TODO: Add Audinite
+        // Gen 6
+        // TODO: Add Diancite
+        // Gen 7+
+
+
+
 
         return cutMegastoneItemList;
 
