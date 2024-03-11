@@ -1,18 +1,14 @@
 package git.dragomordor.megamons.forge.world;
 
-import git.dragomordor.megamons.forge.MegamonsMod;
 import net.minecraft.core.Holder;
 import net.minecraft.core.HolderGetter;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.data.worldgen.BootstapContext;
 import net.minecraft.data.worldgen.placement.PlacementUtils;
 import net.minecraft.resources.ResourceKey;
-import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.level.levelgen.VerticalAnchor;
 import net.minecraft.world.level.levelgen.feature.ConfiguredFeature;
 import net.minecraft.world.level.levelgen.placement.*;
-
-import java.util.List;
 
 public class ModPlacedFeatures {
 
@@ -66,7 +62,7 @@ public class ModPlacedFeatures {
     // TODO: Add Swampertite
     // Gen 4
     // TODO: Add Abomasite
-    public static final ResourceKey<PlacedFeature> GALLADIITE_GEODE = PlacementUtils.createKey("galladite_geode_placed");
+    public static final ResourceKey<PlacedFeature> GALLADITE_GEODE = PlacementUtils.createKey("galladite_geode_placed");
     public static final ResourceKey<PlacedFeature> GARCHOMPITE_GEODE = PlacementUtils.createKey("garchompite_geode_placed");
     // TODO: Add Lopunnite
     // TODO: Add Lucarionite
@@ -295,7 +291,7 @@ public class ModPlacedFeatures {
         // Gen 4
         // TODO: Add Abomasite
 
-        PlacementUtils.register(context, GALLADIITE_GEODE, galladite_holder,
+        PlacementUtils.register(context, GALLADITE_GEODE, galladite_holder,
                 new PlacementModifier[]{RarityFilter.onAverageOnceEvery(GeodeCount * GeodeRarity), InSquarePlacement.spread(),
                         HeightRangePlacement.uniform(VerticalAnchor.aboveBottom(6), VerticalAnchor.absolute(30)),
                         BiomeFilter.biome()});
