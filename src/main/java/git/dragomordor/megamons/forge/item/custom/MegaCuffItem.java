@@ -16,6 +16,7 @@ import git.dragomordor.megamons.forge.util.OverlayMessage;
 import git.dragomordor.megamons.forge.util.megaspecies.HeldMegastoneMegaSpeciesUtil;
 import git.dragomordor.megamons.forge.util.megaspecies.MegaSpeciesUtil;
 import net.minecraft.core.BlockPos;
+import net.minecraft.network.chat.Component;
 import net.minecraft.sounds.SoundSource;
 import net.minecraft.world.InteractionResult;
 import net.minecraft.world.entity.player.Player;
@@ -35,7 +36,7 @@ public class MegaCuffItem extends PokemonUseItem{
     public InteractionResult processInteraction(ItemStack itemStack, Player player, PokemonEntity target, Pokemon pokemon) throws NoPokemonStoreException {
         // has no held item
         if (pokemon.heldItemNoCopy$common().isEmpty()) {
-            OverlayMessage.displayOverlayMessage(player,"No Held Item");
+            OverlayMessage.displayOverlayMessage(player,"message.megacuffitem.nohelditem");
             return InteractionResult.FAIL;
         }
         // Has held item
@@ -48,7 +49,7 @@ public class MegaCuffItem extends PokemonUseItem{
 
         // if held item is not megastone, return fail
         if (!isHeldItemMegaStone) {
-            OverlayMessage.displayOverlayMessage(player,"Held Item is not Megastone");
+            OverlayMessage.displayOverlayMessage(player,"message.megacuffitem.notamegastone");
             return InteractionResult.FAIL;
         }
 
@@ -64,7 +65,7 @@ public class MegaCuffItem extends PokemonUseItem{
         // if either return weedle, megastone has no associated Pokémon
         Species weedle = PokemonSpecies.INSTANCE.getByName("weedle");
         if ((applicablePreEvolutionSpecies.equals(weedle)) || (applicablePostEvolutionSpecies.equals(weedle))) {
-            OverlayMessage.displayOverlayMessage(player,"Megastone has no associated Pokémon");
+            OverlayMessage.displayOverlayMessage(player,"message.megacuffitem.megastonehasnopokemon");
             return InteractionResult.FAIL;
         }
 
@@ -79,7 +80,7 @@ public class MegaCuffItem extends PokemonUseItem{
             int numberOfMegaPokemonAllowed = config.numberOfMegaPokemonAllowed;
 
             if (numberOfMegaPokemonAllowed<=0) {
-                OverlayMessage.displayOverlayMessage(player,"No Mega Pokémon Allowed!");
+                OverlayMessage.displayOverlayMessage(player,"message.megacuffitem.nomegasallowed");
                 return InteractionResult.FAIL;
             }
 
@@ -100,7 +101,7 @@ public class MegaCuffItem extends PokemonUseItem{
                             // Pokémon in party is a mega Pokémon
                             playerMegaCount++; // increase number of Mega Pokémon detected
                             if (playerMegaCount>=numberOfMegaPokemonAllowed) {
-                                OverlayMessage.displayOverlayMessage(player,"You already have the maximum number of Mega Pokémon allowed.");
+                                OverlayMessage.displayOverlayMessage(player,"message.megacuffitem.maxmegas");
                                 return InteractionResult.FAIL;
                             }
                         }
@@ -114,7 +115,7 @@ public class MegaCuffItem extends PokemonUseItem{
                             // Mega Pokémon is in pc
                             playerMegaCount++;
                             if (playerMegaCount>=numberOfMegaPokemonAllowed) {
-                                OverlayMessage.displayOverlayMessage(player,"You already have the maximum number of Mega Pokémon allowed.");
+                                OverlayMessage.displayOverlayMessage(player,"message.megacuffitem.maxmegas");
                                 return InteractionResult.FAIL;
                             }
                         }
@@ -134,7 +135,7 @@ public class MegaCuffItem extends PokemonUseItem{
 
         } else { // Pokémon is wrong species for megastone
             //player.sendMessage(Text.of("Wrong Megastone for "+pokemon.getDisplayName().getString()),true);
-            OverlayMessage.displayOverlayMessage(player,"Wrong Megastone for Pokémon");
+            OverlayMessage.displayOverlayMessage(player,"message.megacuffitem.wrongmegastone");
             return InteractionResult.FAIL;
         }
 
@@ -159,24 +160,20 @@ public class MegaCuffItem extends PokemonUseItem{
     public static void evolveToMega(Pokemon pokemon, Species nonMegaSpecies, Species MegaSpecies, Player player) {
         pokemon.setSpecies(MegaSpecies);
         String capitalizedSpeciesName = nonMegaSpecies.getName().substring(0, 1).toUpperCase() + nonMegaSpecies.getName().substring(1);
-        OverlayMessage.displayOverlayMessage(player,capitalizedSpeciesName +" transformed into Mega Form!");
+        OverlayMessage.displayOverlayMessage(player,Component.translatable("message.megacuffitem.transformtomega",capitalizedSpeciesName).getString());
         Level level = player.level();
         BlockPos blockPos = player.blockPosition();
         level.playSound(null,blockPos,CobblemonSounds.EVOLVING, SoundSource.PLAYERS,1f,1f);
-
-        //player.playSound(CobblemonSounds.EVOLVING,1F, 1F);
+        pokemon.setTradeable(false);
     }
 
     public static void devolveFromMega(Pokemon pokemon, Species nonMegaSpecies, Species MegaSpecies, Player player) {
         pokemon.setSpecies(nonMegaSpecies);
         String capitalizedSpeciesName = nonMegaSpecies.getName().substring(0, 1).toUpperCase() + nonMegaSpecies.getName().substring(1);
-        OverlayMessage.displayOverlayMessage(player,capitalizedSpeciesName + " transformed into regular Form!");
+        OverlayMessage.displayOverlayMessage(player,Component.translatable("message.megacuffitem.transformtononmega",capitalizedSpeciesName).getString());
         Level level = player.level();
         BlockPos blockPos = player.blockPosition();
         level.playSound(null,blockPos,CobblemonSounds.EVOLVING, SoundSource.PLAYERS,1f,0.1f);
-
-        //player.playSound(CobblemonSounds.EVOLVING,1F, 0.1F);
+        pokemon.setTradeable(true);
     }
-
-
 }

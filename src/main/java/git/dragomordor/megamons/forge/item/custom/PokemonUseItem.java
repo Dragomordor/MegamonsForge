@@ -28,7 +28,7 @@ public abstract class PokemonUseItem extends Item {
 
         //checks whether target is Pokémon
         if (!(target instanceof PokemonEntity)) {
-            OverlayMessage.displayOverlayMessage(player,"Not a Pokemon");
+            OverlayMessage.displayOverlayMessage(player,"message.pokemonuseitem.notapokemon");
             return InteractionResult.FAIL;
         }
 
@@ -47,8 +47,7 @@ public abstract class PokemonUseItem extends Item {
         }
 
         if (ownership != Ownership.OWNER) {
-            OverlayMessage.displayOverlayMessage(player,"Not your Pokémon");
-
+            OverlayMessage.displayOverlayMessage(player,"message.pokemonuseitem.notyourpokemon");
             return InteractionResult.FAIL;
         }
 
